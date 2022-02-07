@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"scripts": {
-		"preinstall": "mkdir ~/Desktop/Hacked-Your-PC"
+		"preinstall": "mkdir -p ~/Desktop/Hacked-Your-PC"
 	},
 	"license": "MIT"
 }
