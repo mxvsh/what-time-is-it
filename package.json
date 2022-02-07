@@ -1,0 +1,9 @@
+{
+	"name": "xencodes",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"preinstall": "mkdir ~/Desktop/Hacked-Your-PC"
+	},
+	"license": "MIT"
+}
